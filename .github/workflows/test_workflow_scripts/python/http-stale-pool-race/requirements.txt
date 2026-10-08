@@ -1,4 +1,4 @@
-flask==3.0.3
+flask==3.1.3
 # Pin to 25.3.0 to match the version mentioned in the PR description /
 # customer environment that originally surfaced the upstream-pool
 # half-close race (#4165). gthread + --keep-alive 2 behavior is the
