@@ -3,4 +3,4 @@
 # in urllib3.util.connection.is_connection_dropped → wait_for_read; that
 # code path is stable across urllib3 1.26.x and 2.x, but pinning here
 # keeps the regression's reference behavior reproducible.
-urllib3==2.3.0
+urllib3==2.8.0
